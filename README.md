@@ -1,8 +1,8 @@
-# Il mondo della tecnologia
+# <span style="color: red">Il mondo della tecnologia</span>
 
 La tecnologia fa ormai parte della nostra vita quotidiana. Utilizziamo computer, smartphone e tablet per studiare, lavorare e comunicare.
 
-## Gli strumenti digitali
+## <span style="color: green">Gli strumenti digitali</span>
 
 Esistono molti strumenti che possono aiutarci nelle attività di ogni giorno.
 
@@ -14,7 +14,7 @@ Alcuni esempi sono:
 - stampante
 - cuffie
 
-## I vantaggi della tecnologia
+## <span style="color: green">I vantaggi della tecnologia</span>
 
 > La tecnologia offre diversi vantaggi.
 
@@ -22,7 +22,7 @@ Permette di comunicare rapidamente con altre persone e di trovare informazioni i
 
 È però importante utilizzare gli strumenti digitali **in modo responsabile**.
 
-## Consigli per un uso corretto
+## <span style="color: green">Consigli per un uso corretto</span>
 
 Possiamo seguire alcune semplici regole:
 
@@ -31,7 +31,7 @@ Possiamo seguire alcune semplici regole:
 - controllare le informazioni trovate online
 - fare delle pause quando si utilizza il computer per molto tempo
 
-## Un concetto importante
+## <span style="color: green">Un concetto importante</span>
 
 La *sicurezza informatica* è importante per proteggere i nostri dati e i nostri dispositivi.
 
@@ -39,7 +39,7 @@ Per esempio, una `password` sicura dovrebbe essere difficile da indovinare.
 
 ---
 
-## Risorse
+## <span style="color: green">Risorse</span>
 
 Per approfondire l'argomento è possibile consultare il sito della Polizia Postale:
 
